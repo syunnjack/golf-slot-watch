@@ -1,0 +1,7 @@
+# Golf Slot Watch
+
+空き枠、安値、雨天キャンセル、天気、練習場を通知し、ゴルフ場予約と用品へ送客する。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 予約成果報酬, 用品 affiliate, 宿泊送客, 練習場掲載, コンペ広告
+Primary categories: 空き枠, 安値, 天気, 練習場, 宿泊
