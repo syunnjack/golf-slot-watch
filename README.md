@@ -8,7 +8,7 @@ Recommended repository name: `golf-slot-watch`
 
 ## Domain candidates
 
-First candidate: `golfslot.jp`
+Confirmed domain: `golfslot.jp`
 
 Other candidates:
 
