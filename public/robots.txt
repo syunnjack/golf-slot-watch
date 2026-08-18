@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://golf-slot-watch.vercel.app/sitemap.xml
+Sitemap: https://golfslot.jp/sitemap.xml
